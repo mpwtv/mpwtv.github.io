@@ -1,3 +1,33 @@
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",CK
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+
+#EXTINF:-1 group-title="SPECIAL LIVE" tvg-logo="https://suararepubliknews.com/wp-content/uploads/2024/08/BRI.jpeg",BRI LIGA 1 QT
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
+
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://i.imgur.com/V3ZPEVo.jpg" group-title="📽&#65039;LIVE EVENT📽&#65039;", BRI LIGA 1 LIVESPORT
+#EXTVLCOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://tnt2-cf.boblcfwudz421.com/auth%3D2526ec92c4bd8067832b50353db4b715aa7a6870b5e26f7774d326f2e2bf37626ef6c92349ff525fa281f9fd5736693459eeb8a0e8e14e198e1a9974d5295990741b296f272d512589a4414d868f3cd0acfd7a37deae7d3ff1453016bbfc1efacc4061aa5791455a33d3aa679c82d13e16397c1df7861dd9507cea23c04d38c5cbabb5053f616fdb859fe9a4739840191f2946e9abd2e1a4f8ff82a0f8d1a61f56724e994f16ccd1deae5f6207a27805e19167d9f2280948a829bdf5bfd684b03d006385f62892bd4657c8ae3c087fcb84006e9d0288f8be4689e2b047caa45a%26cid%3DhlDOruy_WKgjAyomGZuzJ250426%26_v%3D2%26_r%3D9QTvu8%26_vis%3D89068e829e7a9919f20ee7c834acc6a470002a8d9c088d98f8e7aeb1eb61cfca%26_vvs%3D5811d183d9cbb9e047be67b6f0c9f6e1237f419d62d2a0d3083415ea93948092/transcode/c344859_480p.m3u8
+
+#EXTINF:-1 tvg-name="BRI LIGA 1" tvg-logo="https://i.imgur.com/V3ZPEVo.jpg" group-title="📽&#65039;LIVE EVENT📽&#65039;", BRI LIGA 1 POLOS
+#EXTVLCOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36
+https://pl10.chinefore.com/live/0e5aeb26f57facfa.m3u8?txSecret=d0a03877f5b43b7a58ad327e9cb64101&txTime=680CC8A5
+
+#EXTINF:0 tvg-id="id" tvg-logo="https://i.imgur.com/FWkc7ky.jpg" group-title="📽&#65039;LIVE EVENT📽&#65039;",BRI LIGA 1 POLOS 2
+#EXTVLCOPT:http-origin=https://kami.drawntightlymuxulx.sbs
+#EXTVLCOPT:http-referrer=https://kami.drawntightlymuxulx.sbs/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+https://fhlsport121.fis39g1.xyz/token-c08umrjBKaOGv2YrxfY6mznQlMDRgCrjaHCqzqJKRWXxs7OcHUFdDo8qqxVPX05JBCeIxTNhkA%3D%3Da/v3/get/s3/aHR0cHM6Ly9wbGF5LnJ3YWJ3by5jb20=/rrty/sd-1-4184653.m3u8?txSecret=24392ba63a55c5668aa6236c7ae238cd&txTime=680CC88A
+
+
+
+
+
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLWvpTedDj_V_cNEWEpGIJYcoelUygX57_7iX9m2rUGSIHUOasKpA-T1Y&s=10" group-title="LIVE SPORTS", LIGA BRI 1
 #EXT-X-ALLOW-CACHE:YES
 #EXTVLCOPT:http-reconnect=true
